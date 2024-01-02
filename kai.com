@@ -1,0 +1,21 @@
+<head>
+    <style>
+        input[type='submit']{
+            background-color: #2f5df2;
+            color:#ffffff;}
+        a{
+            text-decoration: none;
+            margin-bottom: 5px;
+            text-align: center;
+            font-size: 20px;
+            font-weight: bold;
+        }
+        .name{
+            text-align: center;
+            font-size: 20px;
+        }
+    </style>
+</head>
+<html><body>
+<h1 class="name">楓,叫我哥哥🙏🥰</h1>
+</body></html>
